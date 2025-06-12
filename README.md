@@ -24,6 +24,6 @@ ipgeolocation.io: IP Address to Geolocation API
 
 Financial institutions continue to be some of the most highly targeted organizations for cybercrime. According to Palo Alto Networks’ Unit 42, “financial services firms are 300 times more likely than other companies to be targeted by cyber attacks,” with common threat vectors including phishing, insider threats, and malware. SIEM platforms help organizations manage this elevated risk by collecting and correlating logs and event data to detect threats, giving security teams the visibility needed to analyze attacks and test the effectiveness of their defenses. Above is my Failed RDP World Map that monitors threats from countries all over the world, tracking unauthorized remote access attempts from around the world to help identify and respond to high-risk activity in real time.
 
-sources: https://www.paloaltonetworks.com/industry/unit42-financial-services?utm_source=chatgpt.com
+sources: https://www.paloaltonetworks.com/industry/unit42-financial-services
          https://logrhythm.com/solutions/financial-services/
          https://www.youtube.com/watch?v=RoZeVbbZ0o0&list=LL&index=2&t=129s&ab_channel=JoshMadakor
